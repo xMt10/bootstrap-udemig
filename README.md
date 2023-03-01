@@ -4,3 +4,4 @@
 <p>BOOTSTRAP HTML5 CSS3</p>
 <img src="/images/preview.gif" alt="">
 <img src="/images/mobile.gif" alt="">
+<a href="https://udemigmt.netlify.app/">preview</a>
